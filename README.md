@@ -1,4 +1,4 @@
-# jupyter-test
+# gdp and life expectancy check
 
 This notebook contains an analysis on GDP and life expectancy data from the World Health Organization and the World Bank for 6 countries (Zimbabwe, USA, Mexico, Germany, Chile and China).
 
